@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+data/raw/*.csv
+data/raw/*.zip
+reports/*.pdf
+reports/*.png
+*.log
